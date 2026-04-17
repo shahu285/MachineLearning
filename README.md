@@ -1,21 +1,22 @@
-🤖 ML Daily Practice
-A log of my daily progress in AI & Data Science.
+# 🤖 ML Daily Practice
 
-🚀 What's Inside
-Data Prep: Cleaning, .iloc slicing, and handling CSVs.
+Daily log of my journey in AI and Data Science. This repository tracks my progress in data preprocessing, feature engineering, and model building.
 
-Feature Engineering: Scaling (StandardScaler), Encoding, and EDA.
+## 🚀 Recent Focus
+* **Data Cleaning:** Using `.iloc` for precise data slicing and handling `placement.csv`.
+* **Preprocessing:** Implementing `StandardScaler` to normalize feature ranges for better model performance.
+* **Techniques:** Exploratory Data Analysis (EDA) and handling case-sensitive variable errors in Python.
 
-Models: Regression, Classification, and Clustering.
+## 🛠️ Tech Stack
+* **Language:** Python
+* **Libraries:** Pandas, NumPy, Scikit-Learn
+* **Platform:** Google Colab
 
-🛠️ Tools
-Python (Pandas, NumPy, Scikit-Learn)
+## 📈 Roadmap
+- [x] Basic Data Slicing & Cleaning
+- [x] Feature Scaling (Standardization)
+- [ ] Classification Models
+- [ ] End-to-End Pipeline Implementation
 
-Google Colab
-
-📈 Goals
-[x] Master Feature Scaling
-
-[ ] Implement Logistic Regression
-
-[ ] Build End-to-End ML Pipelines
+---
+**Shahu Ugale** *Final Year B.E. AI & Data Science*
